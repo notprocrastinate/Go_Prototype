@@ -1,0 +1,2 @@
+# Go_Prototype
+使用Go语言编写的一个blockchain prototype，深入理解区块链的工作原理
